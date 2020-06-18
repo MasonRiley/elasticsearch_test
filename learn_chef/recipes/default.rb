@@ -17,7 +17,7 @@
 # )
 # run_list(
 #   "recipe[java]"
-)
+#)
 
 elasticsearch_user 'elasticsearch'
 
